@@ -39,6 +39,7 @@
             Console.WriteLine(Days.Sunday);
             Console.WriteLine("Number7 is {0}", number7);
             Console.WriteLine("Deneme");
+            Console.WriteLine("Deneme2");
         }
 
         enum Days
